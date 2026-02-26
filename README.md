@@ -30,22 +30,18 @@ bash
 
 ## Example Usage
 
-`bash
-Enter folder path: /path/to/your/folder
-Scanning for duplicates...
+      `bash
+      Enter folder path: /path/to/your/folder
+      Scanning for duplicates...
 
-Duplicate files found:
+      Duplicate files found:
+      ----------
+      /path/to/your/folder/file1.txt
+      /path/to/your/folder/file1 (1).txt
+      Do you want to delete the duplicate files? (y/n): y
+      Are you sure you want to delete /path/to/your/folder/file1 (1).txt? (y/n): y
+      Deleted /path/to/your/folder/file1 (1).txt
 
-----------
-   /path/to/your/folder/file1.txt
-   /path/to/your/folder/file1 (1).txt
+      Scan completed.
 
-   Do you want to delete the duplicate files? (y/n): y
-
-   Are you sure you want to delete /path/to/your/folder/file1 (1).txt? (y/n): y
-
-   Deleted /path/to/your/folder/file1 (1).txt
-
-
-   Scan completed.
 
