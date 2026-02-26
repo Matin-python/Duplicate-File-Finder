@@ -41,7 +41,10 @@ Duplicate files found:
 /path/to/your/folder/file1 (1).txt
 
 Do you want to delete the duplicate files? (y/n): y
+
 Are you sure you want to delete /path/to/your/folder/file1 (1).txt? (y/n): y
+
 Deleted /path/to/your/folder/file1 (1).txt
+
 
 Scan completed.
