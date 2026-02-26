@@ -37,14 +37,15 @@ Scanning for duplicates...
 Duplicate files found:
 
 ----------
-/path/to/your/folder/file1.txt
-/path/to/your/folder/file1 (1).txt
+   /path/to/your/folder/file1.txt
+   /path/to/your/folder/file1 (1).txt
 
-Do you want to delete the duplicate files? (y/n): y
+   Do you want to delete the duplicate files? (y/n): y
 
-Are you sure you want to delete /path/to/your/folder/file1 (1).txt? (y/n): y
+   Are you sure you want to delete /path/to/your/folder/file1 (1).txt? (y/n): y
 
-Deleted /path/to/your/folder/file1 (1).txt
+   Deleted /path/to/your/folder/file1 (1).txt
 
 
-Scan completed.
+   Scan completed.
+
