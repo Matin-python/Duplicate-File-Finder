@@ -44,4 +44,12 @@ bash
 
       Scan completed.
 
+## Author
+
+**Mohammad Reza Bakhshandeh**
+
+Electrical Engineering (Electronics) Graduate
+
+Interested in Python Development, Computer Vision, Machine Learning, and Artificial Intelligence.
+
 
